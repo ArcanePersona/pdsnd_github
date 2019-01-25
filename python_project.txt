@@ -16,4 +16,8 @@ if day not in ['saturday','sunday','monday','tuesday','wednesday','thursday','fr
    print("oops!! you have not chosen a day from the mentioned above, please try again =)")
    day = (input("please specifiy the name of the day you want to analyse, from saturday to friday":)).lower()
    print("great!! let's see explore some bikeshare data, my friend!")
+
+""WIP""
+""WIP 2"
+""WIP 3""
    
