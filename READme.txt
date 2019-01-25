@@ -18,3 +18,6 @@ based on such information, we can adjust our service to fit the customers' needs
 ### Credits
 i want to give credits to Mr.Richard , course provider at Udacity.com, a very cool guy and i enjoyed learning under supervision
 God Bless you , Richard :)
+
+### more credits
+to Mr.Derek and Miss.Juno
