@@ -18,4 +18,5 @@ if day not in ['saturday','sunday','monday','tuesday','wednesday','thursday','fr
    print("great!! let's see explore some bikeshare data, my friend!")
 
 ""WIP""
+""WIP 2"
    
